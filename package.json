@@ -1,0 +1,26 @@
+{
+  "name": "eat-da-burger",
+  "version": "1.0.0",
+  "description": "Homework project using MySQL, Node, Express, Handlebars, and self-made ORM.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dusterdieck/burger.git"
+  },
+  "author": "Timothy Dusterdieck",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dusterdieck/burger/issues"
+  },
+  "homepage": "https://github.com/dusterdieck/burger#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "express-handlebars": "^3.0.0",
+    "method-override": "^2.3.8",
+    "mysql": "^2.13.0"
+  }
+}
